@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <vueDateFormat :format="'yyyy年MM月dd日 hh:mm:ss'" :time="time"></vueDateFormat>
+    <vueDateFormat :type="'ago'" :time="time" :autoUpdate="true"></vueDateFormat>
   </div>
 </template>
 
@@ -13,7 +13,7 @@ export default {
   },
   data () {
     return {
-      time:'2017-12-12'
+      time:'2018-1-30 17:14:00'
     }
   }
 }

@@ -4761,9 +4761,9 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-date-format@./vue-date-format-1.0.0.tgz:
-  version "1.0.0"
-  resolved "./vue-date-format-1.0.0.tgz#baa96d7b7079ac6653ce564e647657c5ed1b520e"
+vue-date-format@./vue-date-format-1.1.0.tgz:
+  version "1.1.0"
+  resolved "./vue-date-format-1.1.0.tgz#c8a6da4a6db27dee9634e32b08f473ac7902e74e"
   dependencies:
     vue "^2.5.11"
 
