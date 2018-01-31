@@ -1,6 +1,6 @@
 # vue-date-format
 
-Date format component for Vue2.0
+Date format component for Vue2.0 | [DEMO](https://slimcheng.github.io/vue-date-format/example/index.html)
 
 日期格式化、美化插件
 
